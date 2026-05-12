@@ -78,3 +78,6 @@ python3 -m unittest tests.test_blockchain -v
 - 链完整性验证（交易篡改、哈希断裂、难度伪造）
 - 节点同步（两节点、三节点、增量同步、非法区块拒绝）
 - 整链序列化/反序列化
+
+执行main.py测试执行结果：
+<img width="644" height="85" alt="image" src="https://github.com/user-attachments/assets/f8262a36-e2dc-466b-9ff9-c422bc35687a" />
